@@ -1,0 +1,43 @@
+body{
+    max-width: 1200px;
+    background: lightgray;
+}
+
+section{
+    background:black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+div{
+    background: grey;
+    padding: 10px;
+    margin: 10px;
+}
+
+p{
+background: whitesmoke;
+padding: 10px;
+margin: 5px;
+}
+
+.flex{
+    display:flex;
+    justify-content: space-around;
+}
+
+.cuarto{
+    width:25%;
+}
+
+.mitad{
+    width:50%;
+}
+
+.trescuartos{
+    width:75%
+}
+
+.todo{
+    width:100%;
+}
